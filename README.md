@@ -1,2 +1,2 @@
 # 4DCrystalML
-Utility functions for atomic manipulations for 4D STEM simulations
+AI/ML workflow (FCU-Net) and Utility functions for crystallographic information extraction from electron microscopy
